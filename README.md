@@ -1,2 +1,2 @@
 # AI_Agent
-Ai Agent Custom for me
+- Input your api key into ai_env/*.env
